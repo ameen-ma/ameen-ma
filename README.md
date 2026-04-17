@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Results-driven **Test Engineer** with **5+ years of IT experience**, including **4+ years in Software Testing** across **web, API, and mobile** platforms.  
+Results-driven **Test Engineer** with **6+ years of IT experience**, including **5+ years in Software Testing** across **web, API, and mobile** platforms.  
 Expert in **Selenium WebDriver**, **TestNG**, **API testing**, and **SAP Hybris**. Skilled in building **automation frameworks**, performing **performance testing**, and integrating tests in **CI/CD pipelines**.  
 Passionate about delivering **high-quality, scalable software solutions** and continuously improving testing processes.  
 
